@@ -1,6 +1,6 @@
 # Python
 
-#安装 microsoft visual c++ 
+#安装 microsoft visual c++ buid tools
 
 #pycharm 安装模块
 #import requests
