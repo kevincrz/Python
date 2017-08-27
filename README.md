@@ -4,5 +4,6 @@
 
 #pycharm 安装模块
 #import requests
-#import wordcloud
+#安装 词汇云
+import wordcloud 
 #import 
